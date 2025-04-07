@@ -67,4 +67,23 @@ In this project, I am working on developing a predictive model to identify custo
 <br>
 
 [*Data Governance & Privacy Final Project: Let's get this data out safely!*](https://drive.google.com/file/d/11MSWjOemGMyYMsq7Bgx19wdU4y3N4Mqm/view?usp=sharing) <br>
-This project explored methods for safely sharing COVID-19 patient dta while ensuring privacy and compliance with data protection regulations.  I employed privacy-preserving techniques such as pseudonymization, aggregation, and k-anonymity to prevent patient identification.  Through this process, I aimed to identify the most effective methods for balancing data utility with privacy in health-related data sharing.
+This project explored methods for safely sharing COVID-19 patient dta while ensuring privacy and compliance with data protection regulations.  I employed privacy-preserving techniques such as pseudonymization, aggregation, and k-anonymity to prevent patient identification.  Through this process, I aimed to identify the most effective methods for balancing data utility with privacy in health-related data sharing. <br>
+<br>
+
+[*Customer Segmentation and Profiling Project*](https://drive.google.com/file/d/1CH4CFCQbWGK8G-80wMbceUh-699M-w9r/view?usp=sharing) <br>
+In this project, I segmented customer data to uncover insights that could inform targeted marking strategies and improve customer retention.  Using R (CART and K-means), I focused on customer tenure while also analyzing key demographic and behavioral variables.  I used Tableau Prep to clean and prepare the data, and Tableau Desktop to create visualizations that highlighted signficant patterns and trends.  The segmentation revealed distinct customer groups that could be targeted with personalized strategies to enhance engagement and retention. <br>
+<br>
+
+[*Data Transformation and Simplification Project*](https://drive.google.com/file/d/1E51eGsXTMBGzYORPa01ZmUg54-LI_-re/view?usp=sharing) <br>
+In this project, I took on the role of a marketing analytics manager for a telecommunications company, focusing on a dataset representing 5,000 customers.  The company was launching a new program to provide educational services to customers in financial need, and my role was to analyze the data to help identify those who would benefit most from the program. Using Tableau Prep, I cleaned and transformed the data, prioritizing fields such as salary, education, debt, marital status, and household size, which were key to understanding customers' financial situations. I also considered the types and number of services, plans, devices, and subscriptions customers had, helping to determine their current access to essential services and any affordability gaps. In Tableau Desktop, I analyzed the relationships between these variables, identifying customer segments that would benefit most from the program. The insights gained were used to target outreach efforts and tailor the program to the needs of the most vulnerable customers. <br>
+<br>
+
+[*Python Salary Project*](https://drive.google.com/file/d/1gjT0JkIoSjatjP8lUTsSrJf_Qcpr0DEu/view?usp=sharing) <br>
+[Top 5 Countries for Data Scientists](https://drive.google.com/file/d/1vWFVpXLQNIxvJiySZ96pDdQJs3rsNyRv/view?usp=sharing)
+For this project, I took on the role of a data scientist tasked with determining the top 5 places in the world where my salary would stretch the furthest in relation to the cost of living.  I used Python to clean and transform the dataset; after exploring the data, I created visualization with Matplotlib and Seaborn to summarize my findings and identify the cities wehre salary-to-cost-of-living ratios were most favorable.  <br>
+<br>
+
+[*R Salary Project*](https://drive.google.com/file/d/1HrHWSE1eFNIawvl1x5u2v6vOSdzRMowE/view?usp=sharing) <br>
+[Data Science Salaries](https://drive.google.com/file/d/1vdqCBFXR5kQZ4bnL50V2n9Y-6pVENvpt/view?usp=sharing)
+For this project, I was tasked with preparing an analysis of data science slaries to help the CEO of a fictional company understand current trends and make informed decisions on compensation and hiring.  I worked with a dataset containing salary information across various industries and locations.  Using R, I cleaned and transformed the data, identifying key variables such as experience, job title, location, adn education level.  I then explored correlations and relationships between these factors and salary.  To summarize my findings, I created visualizations using ggplot2 and presented the results in a concise presentation aimed at supporting strategic decision-making.
+helping the CEO of a fictional comapny by preparing an analysis of data science salaries.  I used R to clean, transform, and explore the data set.  I then created visualizations using ggplot2 and summarized my findings in a brief presentation to present to the CEO.  <br>
