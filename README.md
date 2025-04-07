@@ -39,7 +39,23 @@ Relevant Courses: Calculus II & III, Linear & Modern Algebra, Topics in Mathemat
 *Kaggle Certificates*: Intro to Machine Learning
 
 ## Work Experience
-Title
--bullet point
+*7th Grade Math Teacher*, Beverly Middle School, Beverly, MA;	August 2021 – Present <br>
+*High School Math Teacher*, Manchester Essex Regional High School, Manchester, MA;	August 2015 - June 2021 <br>
+*High School Math Teacher*, Rockport High School, Rockport, MA;	August 2006 - June 2015 <br>
+- Analyzed student data via schools’ SMS systems, LinkIt, & state assessments to inform instruction & drive student success. <br>
+- Used Excel/Google Sheets to organize and analyze data, identifying trends to improve curriculum delivery. <br>
+- Developed reports on student progress and communicated data-driven insights to stakeholders. <br>
+- Communicated regularly and worked collaboratively with parents, team teachers, and administrators. <br>
+- Taught a variety of courses (including Calculus, Statistics, and Data Analysis) to students of varying abilities through the development, implementation, and revision of curriculum. <br>
+- Researched and implemented innovative teaching methods to better meet students’ needs.<br>
+<br>
+*High School Math Curriculum Coordinator*, Rockport High School, Rockport, MA;	September 2011 - June 2014 <br>
+- Analyzed district & state assessment data & presented findings to colleagues, administrators, & the school committee. <br>
+- Led department discussions to align data interpretation of assessments and instructional strategies. <br>
+- Organized monthly department meetings and collaborated with other curriculum coordinators to ensure consistency across departments and grade levels. <br>
+- Assisted in hiring processes by evaluating candidates for math department positions. <br>
+
 
 ## Projects
+[*Predictive Modeling Customer Attrition: Analytical Plan* ](https://docs.google.com/document/d/1u1gm5lOHsj_egf4XmEafu4chqXZEY7l-BxG3yLZYDoE/edit?usp=drive_link) <br>
+In this project, I am working on developing a predictive model to identify customers at high risk of attrition, using a dataset containing information about approximately 10,000 customers.  My analytical plan includes identifying key business variables such as customer demongraphics, transaction history, and engagement patterns, while addressing challenges including class imbalance and potential overfitting.  Currently, I am building and evaluating multiple supervised learning models - including logistic regression and k-Nearest Neighbors - to determine the most effective model.  My final analysis will provide actionable insights and recommendations to inform targeted retention strategies. <br>
