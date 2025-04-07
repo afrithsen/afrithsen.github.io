@@ -39,9 +39,12 @@ Relevant Courses: Calculus II & III, Linear & Modern Algebra, Topics in Mathemat
 *Kaggle Certificates*: Intro to Machine Learning
 
 ## Work Experience
-*7th Grade Math Teacher*, Beverly Middle School, Beverly, MA;	Aug 2021 – Present <br>
-*High School Math Teacher*, Manchester Essex Regional High School, Manchester, MA;	Aug 2015 - Jun 2021 <br>
-*High School Math Teacher*, Rockport High School, Rockport, MA;	Aug 2006 - Jun 2015 <br>
+*7th Grade Math Teacher* <br>
+Beverly Middle School, Beverly, MA;	Aug 2021 – Present <br>
+*High School Math Teacher* <br>
+Manchester Essex Regional High School, Manchester, MA;	Aug 2015 - Jun 2021 <br>
+*High School Math Teacher* <br>
+Rockport High School, Rockport, MA;	Aug 2006 - Jun 2015 <br>
 - Analyzed student data via schools’ SMS systems, LinkIt, & state assessments to inform instruction & drive student success. <br>
 - Used Excel/Google Sheets to organize and analyze data, identifying trends to improve curriculum delivery. <br>
 - Developed reports on student progress and communicated data-driven insights to stakeholders. <br>
