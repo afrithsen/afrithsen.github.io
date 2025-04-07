@@ -53,7 +53,8 @@ Rockport High School, Rockport, MA;	Aug 2006 - Jun 2015 <br>
 - Researched and implemented innovative teaching methods to better meet students’ needs.<br>
 <br>
 
-*High School Math Curriculum Coordinator*, Rockport High School, Rockport, MA;	Sept 2011 - Jun 2014 <br>
+*High School Math Curriculum Coordinator* <br>
+Rockport High School, Rockport, MA;	Sept 2011 - Jun 2014 <br>
 - Analyzed district & state assessment data & presented findings to colleagues, administrators, & the school committee. <br>
 - Led department discussions to align data interpretation of assessments and instructional strategies. <br>
 - Organized monthly department meetings and collaborated with other curriculum coordinators to ensure consistency across departments and grade levels. <br>
@@ -65,5 +66,5 @@ Rockport High School, Rockport, MA;	Aug 2006 - Jun 2015 <br>
 In this project, I am working on developing a predictive model to identify customers at high risk of attrition, using a dataset containing information about approximately 10,000 customers.  My analytical plan includes identifying key business variables such as customer demongraphics, transaction history, and engagement patterns, while addressing challenges including class imbalance and potential overfitting.  Currently, I am building and evaluating multiple supervised learning models - including logistic regression and k-Nearest Neighbors - to determine the most effective model.  My final analysis will provide actionable insights and recommendations to inform targeted retention strategies. <br>
 <br>
 
-[*Data Governance & Privacy Final Project: Let's get this data out safely!*] (https://drive.google.com/file/d/11MSWjOemGMyYMsq7Bgx19wdU4y3N4Mqm/view?usp=sharing) <br>
+[*Data Governance & Privacy Final Project: Let's get this data out safely!*](https://drive.google.com/file/d/11MSWjOemGMyYMsq7Bgx19wdU4y3N4Mqm/view?usp=sharing) <br>
 This project explored methods for safely sharing COVID-19 patient dta while ensuring privacy and compliance with data protection regulations.  I employed privacy-preserving techniques such as pseudonymization, aggregation, and k-anonymity to prevent patient identification.  Through this process, I aimed to identify the most effective methods for balancing data utility with privacy in health-related data sharing.
