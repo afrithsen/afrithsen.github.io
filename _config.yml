@@ -1,1 +1,5 @@
-
+title: Amanda Frithsen
+#logo: relative path of image desired
+#description: text below image
+#show_downloads: false
+theme: jekyll-theme-minimal
