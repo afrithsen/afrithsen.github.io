@@ -1,5 +1,3 @@
-# afrithsen.github.io
-
 # Data Analyst
 
 ### Education
