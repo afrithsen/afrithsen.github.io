@@ -49,6 +49,7 @@ Relevant Courses: Calculus II & III, Linear & Modern Algebra, Topics in Mathemat
 - Taught a variety of courses (including Calculus, Statistics, and Data Analysis) to students of varying abilities through the development, implementation, and revision of curriculum. <br>
 - Researched and implemented innovative teaching methods to better meet students’ needs.<br>
 <br>
+
 *High School Math Curriculum Coordinator*, Rockport High School, Rockport, MA;	Sept 2011 - Jun 2014 <br>
 - Analyzed district & state assessment data & presented findings to colleagues, administrators, & the school committee. <br>
 - Led department discussions to align data interpretation of assessments and instructional strategies. <br>
