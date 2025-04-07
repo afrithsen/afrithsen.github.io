@@ -1,7 +1,7 @@
 # Data Analyst
 
 ## Education
-# Masters of Science in Data Science <br>
+### Masters of Science in Data Science <br>
 Merrimack College, North Andover, MA <br>   	
 Expected: October 2025 <br>
 GPA: 4.0/4.0 <br>
